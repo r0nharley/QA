@@ -9,7 +9,7 @@ https://bit.ly/2sYRGWo
 
 ## Test Cases
 
-Please see the `Launch.robot` file
+Please see the `Central/Launch.robot` file
 
 
 ## Automation
