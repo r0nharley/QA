@@ -46,9 +46,6 @@ brew install chromedriver
 ```
 
 
-
-```
-
 ## Running the tests
 
 Test will run with Chrome by default. This can be changed in the `${BROWSER}` variable in the  `Launch.robot` file
