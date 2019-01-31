@@ -16,10 +16,10 @@ Please see the `Central/Launch.robot` file.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Pycharm or similiar IDE<br>
-RobotFramework<br>
-Selenium Library<br>
-Chrome driver<br>
+1. Pycharm or similiar IDE<br>
+2. RobotFramework<br>
+3. Selenium Library<br>
+4. Chrome driver<br>
 
 
 ### Installing
