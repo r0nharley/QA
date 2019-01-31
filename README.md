@@ -7,11 +7,16 @@ Paylocity QA Challenge.
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSPA4Yj_p4CW2DK3rcN_m5WrWR-dQORsXkSxcktXww0eiShxWm5nJxd7cuu9D7Gafcd5bH36qHd479V/pubhtml
 
+## Test Cases
+
+Please see the `Launch.robot` file
+
 
 ### Automation Prerequisites
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+Pycharm or similiar IDE<br>
 RobotFramework<br>
 Selenium Library<br>
 Headless Chrome<br>
