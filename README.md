@@ -55,11 +55,5 @@ robot -d results  Central/Launch.robot
 
 The Robot Framework test results can be found in the results directory.  Results are displayed as a log, report, or as xml. The logs and reports provide a detailed view of the test suite. They also allow you to drill into the each test step which is helpful for test debugging. If there is a failed test Robot Framework includes a screen shot of the point of failure.
 
-```
-results/log.html
-```
 
-```
-results/results.html
-```
 
