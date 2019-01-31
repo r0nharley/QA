@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ec651f9-37f5-45e0-8d8b-c675424cb875" name="Default Changelist" comment="" />
+    <list default="true" id="7ec651f9-37f5-45e0-8d8b-c675424cb875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548872870836</updated>
-      <workItem from="1548872872013" duration="17040000" />
+      <workItem from="1548872872013" duration="17302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17040000" />
+    <option name="totallyTimeSpent" value="17302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1617" y="96" width="1509" height="1053" extended-state="0" />
@@ -150,7 +152,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2528616" />
+      <window_info anchor="bottom" id="Terminal" weight="0.2528616" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
