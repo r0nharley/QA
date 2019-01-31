@@ -57,6 +57,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -73,6 +76,7 @@
     <option name="width" value="1509" />
     <option name="height" value="1053" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -129,12 +133,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548872870836</updated>
-      <workItem from="1548872872013" duration="16697000" />
+      <workItem from="1548872872013" duration="17040000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16697000" />
+    <option name="totallyTimeSpent" value="17040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1617" y="96" width="1509" height="1053" extended-state="0" />
