@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 Pycharm or similiar IDE<br>
 RobotFramework<br>
 Selenium Library<br>
-Headless Chrome<br>
+Chrome driver<br>
 
 
 ### Installing
