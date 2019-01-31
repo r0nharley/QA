@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vSPA4Yj_p4CW2DK3rcN_m5WrWR-dQORs
 Please see the `Launch.robot` file
 
 
-### Automation Prerequisites
+## Automation
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
