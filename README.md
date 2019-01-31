@@ -5,7 +5,7 @@ Paylocity QA Challenge.
 
 ## Bugs
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vSPA4Yj_p4CW2DK3rcN_m5WrWR-dQORsXkSxcktXww0eiShxWm5nJxd7cuu9D7Gafcd5bH36qHd479V/pubhtml
+https://bit.ly/2sYRGWo
 
 ## Test Cases
 
