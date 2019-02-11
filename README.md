@@ -1,6 +1,5 @@
 # QA Challenge
-
-Paylocity QA Challenge.  
+ 
 
 
 ## Bugs
